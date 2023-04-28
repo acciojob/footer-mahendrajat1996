@@ -1,1 +1,14 @@
 /* your code here */
+.media-icons{
+	display:flex;
+	justify-content:end;
+	justify-content:space-evenly;	
+
+}
+*{
+	margin:0;
+	padding:0;
+}
+.link-boxes{
+	diplay:flex;
+}
